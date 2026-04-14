@@ -5200,5 +5200,21 @@
         ]
       }
     }
+  },
+  "1.26.20.27": {
+    "Version": "1.26.20.27",
+    "Archs": {
+      "x64": {
+        "FileName": "Microsoft.MinecraftWindowsBeta_1.26.2027.0_x64__8wekyb3d8bbwe.msixvc",
+        "Hashes": {
+          "MD5": "f83fb35d9a66dadede198d76c0637de5",
+          "SHA256": "0893da3f8886a6f71728aae5606f724b7e02bc53ef4805f0c348952c934d6a3d",
+          "SHA1": "0fa0d9d0d0b7d4712a8fb29868093147e8c9eaf4"
+        },
+        "UpdateIds": [
+          "1.26.2027.0.486881f6-8ace-4783-864d-7bbcf65b4051"
+        ]
+      }
+    }
   }
 }
